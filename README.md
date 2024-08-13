@@ -6,7 +6,7 @@ This repository contains a full, end to end, Machine Learning project. It uses t
 
 ### Feature Selection
 
-The script feature-selection.py is the first step of the process. It creates two different datasets with dimensionality reduction, one with PCA, one with BLA.
+The script feature-selection.py is the first step of the process. It creates two different datasets with dimensionality reduction, one with PCA, one with SelectFromModel.
 
 ### Model Selection
 
