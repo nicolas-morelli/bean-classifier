@@ -7,8 +7,6 @@ from sklearn.model_selection import train_test_split
 from sklearn.utils.class_weight import compute_class_weight
 from sklearn.preprocessing import OneHotEncoder
 
-# TODO: Add more models
-# TODO: Consider making a class that has the hyperparameters
 # Models
 import brand
 from sklearn.ensemble import RandomForestClassifier
